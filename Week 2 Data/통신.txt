@@ -1,0 +1,101 @@
+"ID" "SSN" "Occupation" "Affiliates" "Cost"
+"1" "2009SP001" "720521-1******" "Consulting/Solution             " "KTF            " 30000
+"2" "2009SP002" "800310-2******" "Finance                      " "SK Telecom      " 50000
+"3" "2009SP003" "810626-2******" "Finance                      " "SK Telecom      " 23000
+"4" "2009SP004" "781007-1******" "Other                      " "SK Telecom      " 50000
+"5" "2009SP005" "771117-2******" "Other                      " "LG Telecom      " 80000
+"6" "2009SP006" "800713-2******" "Consulting/Solution             " "SK Telecom      " 55000
+"7" "2009SP007" "751211-2******" "Consulting/Solution             " "SK  Telecom     " 40000
+"8" "2009SP008" "810628-2******" "Consulting/Solution             " "SK Telecom      " 60000
+"9" "2009SP009" "801201-1******" "Consulting/Solution             " "SK Telecom      " 25000
+"10" "2009SP010" "770404-2******" "Consulting/Solution             " "SK Telecom      " 28000
+"11" "2009SP011" "730619-1******" "Consulting/Solution             " "SK Telecom      " 40000
+"12" "2009SP012" "580708-1******" "dotcom                      " "LG  Telecom     " 35000
+"13" "2009SP013" "790113-1******" "Consulting/Solution             " "SK Telecom      " 50000
+"14" "2009SP014" "771018-1******" "Consulting/Solution             " "SK Telecom      " 60000
+"15" "2009SP015" "800105-2******" "Consulting/Solution             " " SK Telecom     " 40000
+"16" "2009SP016" "791208-2******" "Consulting/Solution             " "SK Telecom      " 65000
+"17" "2009SP017" "730403-2******" "Consulting/Solution             " "SK Telecom      " 20000
+"18" "2009SP018" "770114-1******" "Consulting/Solution             " "SK Telecom      " 45000
+"19" "2009SP019" "800914-2******" "Consulting/Solution             " "KTF            " 35000
+"20" "2009SP020" "800924-2******" "Finance                      " "KTF            " 50000
+"21" "2009SP021" "770703-2******" "Public Institution                  " "SK  Telecom     " 45000
+"22" "2009SP022" "820302-2******" "Consulting/Solution             " "KTF            " 25000
+"23" "2009SP023" "731122-2******" "Consulting/Solution             " "KTF            " 30000
+"24" "2009SP024" "820209-2******" "Consulting/Solution             " "KTF            " 38000
+"25" "2009SP025" "791227-1******" "Manufacturing                      " "SK Tele com     " 40000
+"26" "2009SP026" "810226-2******" "Manufacturing                      " "KTF            " 36000
+"27" "2009SP027" "810210-1******" "Educational Institution(Students)        " "SK Telecom      " 50000
+"28" "2009SP028" "810331-2******" "Other                      " "KTF            " 50000
+"29" "2009SP029" "760105-1******" "Educational Institution(Students)        " "LG Telecom      " 50000
+"30" "2009SP030" "790926-1******" "Educational Institution(Students)        " "K T F          " 30000
+"31" "2009SP031" "810927-2******" "Other                      " "SK Telecom      " 75000
+"32" "2009SP032" "741023-2******" "Educational Institution(Students)        " "LG Telecom      " 43000
+"33" "2009SP033" "770909-1******" "Other                      " "SK Telecom      " 120000
+"34" "2009SP034" "640627-1******" "Educational Institution(Students)        " "KTF            " 25000
+"35" "2009SP035" "770915-1******" "Manufacturing                      " "SK Telecom      " 30000
+"36" "2009SP036" "811026-2******" "Finance                      " "KTF            " 33000
+"37" "2009SP037" "830926-2******" "Educational Institution(Students)        " "SK Telecom      " 20000
+"38" "2009SP038" "810126-1******" "Educational Institution(Students)        " "SK Telecom      " 35000
+"39" "2009SP039" "800813-2******" "Educational Institution(Students)        " "K T F          " 40000
+"40" "2009SP040" "810222-1******" "Educational Institution(Students)        " "SK Telecom      " 20000
+"41" "2009SP041" "820118-1******" "Educational Institution(Students)        " "KTF            " 30000
+"42" "2009SP042" "740126-2******" "Educational Institution(Students)        " "SK Telecom      " 45000
+"43" "2009SP043" "860210-1******" "Other                      " "KTF            " 30000
+"44" "2009SP044" "820110-2******" "Finance                      " "SK Telecom      " 40000
+"45" "2009SP045" "801205-1******" "Service                    " "SK Telecom      " 40000
+"46" "2009SP046" "800908-2******" "Public Institution                  " "SK Telecom      " 42000
+"47" "2009SP047" "810725-2******" "Service                    " "SK Telecom      " 80000
+"48" "2009SP048" "780507-1******" "Consulting/Solution             " "KTF            " 60000
+"49" "2009SP049" "781123-1******" "Educational Institution(Students)        " "SK Telecom      " 50000
+"50" "2009SP050" "710503-1******" "Consulting/Solution             " "KTF            " 40000
+"51" "2009SP051" "811007-2******" "Consulting/Solution             " "SK Telecom      " 45000
+"52" "2009SP052" "681025-1******" "Research/Advertising               " "SK Telecom      " 25000
+"53" "2009SP053" "711003-1******" "Finance                      " "L G Telecom     " 38000
+"54" "2009SP054" "791008-1******" "Soft Distribution                " "LG Telecom      " 19000
+"55" "2009SP055" "800124-2******" "Soft Distribution                " "SK Telecom      " 35000
+"56" "2009SP056" "550115-1******" "Research/Advertising               " "SK Telecom      " 40000
+"57" "2009SP057" "710116-2******" "Medical                 " "SK Telecom      " 21000
+"58" "2009SP058" "680417-2******" "Communication                      " "LG  Telecom     " 17000
+"59" "2009SP059" "720408-2******" "Manufacturing                      " "SK Telecom      " 26000
+"60" "2009SP060" "760409-2******" "Manufacturing                      " "KTF            " 90000
+"61" "2009SP061" "780420-1******" "dotcom                      " "SK Telecom      " 21000
+"62" "2009SP062" "790721-2******" "Communication                      " "KTF            " 39000
+"63" "2009SP063" "800723-1******" "Medical                 " "SK Telecom      " 49000
+"64" "2009SP064" "810717-2******" "Research/Advertising               " "SK Telecom      " 59000
+"65" "2009SP065" "550904-2******" "Public Institution                  " "SK Telecom      " 30000
+"66" "2009SP066" "630904-1******" "Manufacturing                      " "SK Tel ecom     " 42000
+"67" "2009SP067" "710908-2******" "Educational Institution(Students)        " "LG Telecom      " 48000
+"68" "2009SP068" "761208-1******" "Finance                      " "SK Telecom      " 53000
+"69" "2009SP069" "741202-1******" "Service                    " "SK Telecom      " 18000
+"70" "2009SP070" "640102-1******" "Consulting/Solution             " "KTF            " 36000
+"71" "2009SP071" "780228-2******" "Service                    " "SK Telecom      " 64000
+"72" "2009SP072" "811228-2******" "dotcom                      " "KTF            " 17000
+"73" "2009SP073" "710307-1******" "Communication                      " "KTF            " 22000
+"74" "2009SP074" "730302-2******" "Wholesale/Retail                " "KTF            " 29000
+"75" "2009SP075" "740306-1******" "Communication                      " "SK Telecom      " 66000
+"76" "2009SP076" "760406-2******" "Manufacturing                      " "KTF            " 24000
+"77" "2009SP077" "800406-1******" "Communication                      " "LG Telecom      " 44000
+"78" "2009SP078" "830423-2******" "Research/Advertising               " "S K Tel e com   " 16000
+"79" "2009SP079" "830729-2******" "Other                      " "KTF            " 37000
+"80" "2009SP080" "680714-2******" "Finance                      " "KTF            " 32000
+"81" "2009SP081" "710715-1******" "Service                    " "KTF            " 21000
+"82" "2009SP082" "720812-1******" "dotcom                      " "SK Telecom      " 58000
+"83" "2009SP083" "760816-2******" "Service                    " "SK Telecom      " 47000
+"84" "2009SP084" "780824-1******" "Soft Distribution                " "SK Telecom      " 31000
+"85" "2009SP085" "780530-2******" "Finance                      " "SK Telecom      " 46000
+"86" "2009SP086" "830514-1******" "Other                      " "S K Tel e com   " 21000
+"87" "2009SP087" "550514-2******" "Manufacturing                      " "SK Telecom      " 22000
+"88" "2009SP088" "630629-2******" "Public Institution                  " "LG Telecom      " 51000
+"89" "2009SP089" "711011-1******" "Wholesale/Retail                " "LG Telecom      " 41000
+"90" "2009SP090" "811150-2******" "Communication                      " "SK Telecom      " 54000
+"91" "2009SP091" "641111-2******" "Wholesale/Retail                " "SK Telecom      " 34000
+"92" "2009SP092" "730523-2******" "Public Institution                  " "SK Telecom      " 62000
+"93" "2009SP093" "740523-1******" "Finance                      " "KTF            " 22000
+"94" "2009SP094" "820522-2******" "dotcom                      " "K T F          " 52000
+"95" "2009SP095" "740925-1******" "Communication                      " "LG Telecom      " 27000
+"96" "2009SP096" "760903-2******" "Educational Institution(Students)        " "L G Tel e com   " 23000
+"97" "2009SP097" "790318-1******" "Communication                      " "SK Telecom      " 61000
+"98" "2009SP098" "801211-2******" "Educational Institution(Students)        " "SK Telecom      " 28000
+"99" "2009SP099" "800414-2******" "Finance                      " "SK Telecom      " 85000
+"100" "2009SP100" "770615-1******" "Finance                      " "LG Telecom      " 45000
